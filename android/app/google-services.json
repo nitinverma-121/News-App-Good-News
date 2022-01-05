@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062256269705",
+    "project_id": "good-news-fdd66",
+    "storage_bucket": "good-news-fdd66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062256269705:android:c7da72fbe7a40a27492958",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062256269705-61f2v6b24hlh0vgsf906i0311g2a718v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5PjsVAlqNjpAxKnSM0neqffRmJ6VIeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062256269705-61f2v6b24hlh0vgsf906i0311g2a718v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
