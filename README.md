@@ -7,7 +7,8 @@ In this app, there is a Home page, which will display top news from newsapi.org 
 
 ![7ba1be26-a531-4819-b78a-5a6f227f217f](https://user-images.githubusercontent.com/82975890/150019752-00a3f66e-1253-4311-a7e4-715053b66394.jpg)
 
- 
+ ## Downloads
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/1ajCICZniUepJUSEPtBImPacLwJP59y78/view?usp=sharing)
  
  ## Features
 
