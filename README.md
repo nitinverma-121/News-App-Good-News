@@ -21,6 +21,20 @@ In this app, there is a Home page, which will display top news from newsapi.org 
 - Complete backend support.
 
 ## Screenshots
+![7ebcb2a6-6713-4382-afde-25eaf7091092](https://user-images.githubusercontent.com/82975890/150014513-7ecdd37f-9f97-4b27-9a14-1e5b298b3297.jpg)
+![14eff10a-8c13-4327-af2a-5bf0c013e2ec](https://user-images.githubusercontent.com/82975890/150016067-c025723a-a735-4666-96c6-eec7d374cee9.jpg)
+![2a259760-6a00-47a4-b136-2189c48e9712](https://user-images.githubusercontent.com/82975890/150016088-741f81eb-8ace-41f0-8d91-ef0bdc31bfc9.jpg)
+![0e170d11-0eba-4022-84d0-a641a86d303e](https://user-images.githubusercontent.com/82975890/150016134-34007e07-0ced-4b15-a858-e82006c3219b.jpg)
+![a6fc3030-795e-4e62-86b9-7f0ef3c58806](https://user-images.githubusercontent.com/82975890/150016154-23af3775-73ef-45b2-aeed-f48310776281.jpg)
+![2e52cd08-eed6-45cd-ab17-5cfc39e3ec05](https://user-images.githubusercontent.com/82975890/150016192-6be626f6-a84f-421d-80e6-5e0f96eb62a5.jpg)
+![ee5bffae-5202-4828-b1ae-cc7bbaa4f00e](https://user-images.githubusercontent.com/82975890/150016213-812b70e1-8b60-4cfb-8909-305fd80a9e28.jpg)
+![a9f3fd8b-f8e3-4c8c-b013-43286d95227d](https://user-images.githubusercontent.com/82975890/150016230-14e56fe4-dec9-4791-91f3-ca68a5285369.jpg)
+![7e7e43da-33b4-4a11-a3ba-43b38e206a59](https://user-images.githubusercontent.com/82975890/150016257-0cb4d2b8-9113-453d-b537-7c56b32ccdc6.jpg)
+![4ec8f1d6-0606-4be3-b470-5217b195e89b](https://user-images.githubusercontent.com/82975890/150016280-d18341ae-511a-43b0-84c4-b7dfe74fa936.jpg)
+![fdc57b0b-8fee-4943-97e9-e8cefa4d1ed6](https://user-images.githubusercontent.com/82975890/150016327-d807b447-62bb-4414-91dc-4f1732247def.jpg)
+![d270d240-773f-435c-9a02-e9d490ffe7b9](https://user-images.githubusercontent.com/82975890/150016361-9ba8e1db-b5d1-4273-b78f-5f90b5260420.jpg)
+![7d216cbd-9a20-451d-853c-1133dcc6a224](https://user-images.githubusercontent.com/82975890/150016401-6510f32a-e6db-4f27-87d4-bdb9b1141953.jpg)
+![cfb61f84-72f1-40e9-8939-ae3b113b2731](https://user-images.githubusercontent.com/82975890/150016426-cab57b23-1714-49e0-92df-cf7e4275532e.jpg)
 
 ## API Reference
 `Get API KEY from newsapi.org`
